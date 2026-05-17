@@ -7,3 +7,5 @@ wads/
 *.WAD
 *.dll
 *.so
+/ap_gen_tool.pdb
+/ap_gen_tool.exe
